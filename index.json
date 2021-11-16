@@ -1,6 +1,7 @@
 {
   "singleQuote": true,
   "bracketSameLine": true,
+  "proseWrap": "always",
   "overrides": [
     {
       "files": "*.json",
