@@ -1,7 +1,8 @@
 {
   "name": "@bedrockio/prettier-config",
   "version": "1.0.1",
-  "main": "index.json",
+  "main": "./index.js",
+  "type": "module",
   "repository": "git@github.com:bedrockio/prettier-config.git",
   "license": "MIT"
 }
